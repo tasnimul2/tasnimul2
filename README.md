@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png)
+![](https://i.imgur.com/Mlwzhn0.png)
 ### Hi there 👋 , Welcome to my Github profile
 
 #### My name is Tasnimul and I am currently a Computer Science student at City University of New York, Queens College. 
