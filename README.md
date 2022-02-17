@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" width="250"/>
+  <img src="https://media4.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif?cid=790b7611a56ae5d20a7777dc5c6804df9c6fc742a320097f&rid=giphy.gif&ct=s" width="250"/>
   <br>
   Hi there 👋 , welcome to my Github profile.
   <br>
