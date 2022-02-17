@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v82046807maibr8d1ulvc8holp7hu6aytts7y1sr&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="250"/>
   <br>
   Hi there 👋 , welcome to my Github profile.
   <br>
