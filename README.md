@@ -11,7 +11,7 @@
 </div>
 
 
-#### My name is Mohammed and I am currently a Computer Science student at City University of New York, Queens College. 
+#### My name is Mohammed, and I'm currently working as a Backend Software Engineer, specializing in building microservices.
 
 ### :fire: My Stats :
 
