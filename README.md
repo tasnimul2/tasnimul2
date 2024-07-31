@@ -11,7 +11,7 @@
 </div>
 
 
-#### My name is Tasnimul and I am currently a Computer Science student at City University of New York, Queens College. 
+#### My name is Mohammed and I am currently a Computer Science student at City University of New York, Queens College. 
 
 ### :fire: My Stats :
 
